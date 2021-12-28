@@ -29,5 +29,10 @@ Developers
 
 
 # The Near Vision
-  For the first sprint, we should have at least a functioning dev character model with very basic animations
+  For the first sprint, we should have at least a functioning dev character model with very basic animations.
+  
   For the second sprint, we hope to have a mini-map to be able to walk around it.
+
+# The Story Point Estimation Convention Used
+  For this software it has been decided to go for the fibonacci sequence story point estimation convention, which means the a story point can be assigned an estimate of the       following numbers: 1,3,5,8,13,20,40,60,80,100
+  
