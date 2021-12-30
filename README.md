@@ -20,16 +20,16 @@ Za Warudo is an all new MMORPG game that is set in the spartan age, the game’s
 
 
 ## Stakeholders
-
-Gofundme funders
-Gamers
-Designers
-Media
-Distributors
-Developers
-Marketing Team
-Adobe partnership
-
+<ul>
+<li>Gofundme funders</li>
+<li>Gamers</li>
+<li>Designers</li>
+<li>Media</li>
+<li>Distributors</li>
+<li>Developers</li>
+<li>Marketing Team</li>
+<li>Adobe partnership</li>
+</ul>
 
 ## The Near Vision
 For the first sprint, we should have at least a functioning dev character model with very basic animations.
