@@ -8,15 +8,15 @@ Za Warudo is an all new MMORPG game that is set in the spartan age, the game’s
 | Name | Role | Expertise |
 |-------|------|-------------|
 | Abdel Rahman Emam Ali | Software Developer | C++ OpenGL|
-| Jack Mohamed | Tester | Unit Testng |
-| Mohammed Ali | Tester | Integration Testing |
-| Youssef Joe | Graphics Developer | Blender |
-| Amr Hammam | Graphics Engineer | Unity |
-| Hazem Eldeeb | Software Developer | Rust |
-| Youssef Kassab | Software Developer | Ruby |
-| Magnus Eissa | UX Designer | Adobe XD |
-| Mostafa Younes | GUI Designer | Adobe XD |
-| Abdelfattah Abdelnasser | Sound Engineer | Fmod |
+| Jack Mohamed | Tester | Unit Testng using CUnit and JUnit also has some background in Rust |
+| Mohammed Ali | Tester | Integration Testing using VectorCast and does unit testing with CppUnit |
+| Youssef Joe | Graphics Developer | Blender and Adobe Illustrator and also dealth with Unreal Engine before |
+| Amr Hammam | Graphics Engineer | Unity and Unreal Engine, but mainly Unity |
+| Hazem Eldeeb | Software Developer | Rust and C++ |
+| Youssef Kassab | Software Developer | Ruby and has some UX Design certification |
+| Magnus Eissa | UX Designer | Adobe XD and Adobe Premiere and Aftereffects |
+| Mostafa Younes | GUI Designer | Adobe XD and Adobe Audition |
+| Abdelfattah Abdelnasser | Sound Engineer | Fmod also has some background in OpenGL |
 
 
 ## Stakeholders
@@ -27,11 +27,14 @@ Designers
 Media
 Distributors
 Developers
+Marketing Team
+Adobe partnership
+
 
 ## The Near Vision
-   For the first sprint, we should have at least a functioning dev character model with very basic animations.
+For the first sprint, we should have at least a functioning dev character model with very basic animations.
   
-   For the second sprint, we hope to have a mini-map to be able to walk around it.
+For the second sprint, we hope to have a mini-map to be able to walk around it.
 
 ## The Story Point Estimation Convention Used
    The story point estimation convention used in this story as stated in the README file is the Fibonacci convention which states that the story point estimates should take       values based on the Fibonacci series and those are as follows: 1,2,3,5,8,13,20,40,60,80,100. And as can be seen in the product backlog above is that the stories are given       estimates as such.
